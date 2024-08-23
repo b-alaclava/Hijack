@@ -369,17 +369,14 @@ public class ArnahPluginHubPanel extends PluginPanel{
 
 
 
-		JLabel externalPluginWarning2 = new JLabel("<html><a href=''>discord.gg/pTYmDQgu</a></html>");
+		JLabel externalPluginWarning2 = new JLabel("<html><a href=''>discord.gg</a></html>");
 		externalPluginWarning2.setCursor(new Cursor(Cursor.HAND_CURSOR));
 		// Add a mouse listener to handle clicks
 		externalPluginWarning2.addMouseListener(new MouseAdapter() {
 			@Override
 			public void mouseClicked(MouseEvent e) {
 				try {
-					// Define the URL
 					URI uri = new URI("https://discord.gg/pTYmDQgu");
-
-					// Open the default browser
 					Desktop.getDesktop().browse(uri);
 				} catch (Exception ex) {
 					ex.printStackTrace();
