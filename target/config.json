@@ -1,0 +1,1 @@
+{"mainClass":"ca.arnah.runelite.LauncherHijack","classPath":["Balaclava.jar","RuneLite.jar"],"vmArgs":["-XX:+DisableAttachMechanism","-Drunelite.launcher.nojvm=true","-Xmx768m","-Xss2m","-XX:CompileThreshold=1500","--add-opens=java.desktop/com.apple.eawt=ALL-UNNAMED"]}
