@@ -4,7 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="08d88f11-d87f-4bc9-b5d5-fd652d42dae8" name="Changes" comment="" />
+    <list default="true" id="08d88f11-d87f-4bc9-b5d5-fd652d42dae8" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ca/arnah/runelite/RuneLiteHijackProperties.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ca/arnah/runelite/RuneLiteHijackProperties.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ca/arnah/runelite/plugin/config/ArnahPluginHubPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ca/arnah/runelite/plugin/config/ArnahPluginHubPanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Balaclava.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/Balaclava.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/RuneLiteHijack.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ca/arnah/runelite/RuneLiteHijackConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ca/arnah/runelite/RuneLiteHijackConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ca/arnah/runelite/RuneLiteHijackProperties.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ca/arnah/runelite/RuneLiteHijackProperties.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ca/arnah/runelite/plugin/config/ArnahPluginHubPanel.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ca/arnah/runelite/plugin/config/ArnahPluginHubPanel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,13 +40,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/Users/matthew/Balaclava/Hijack"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/matthew/Balaclava/Hijack&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">

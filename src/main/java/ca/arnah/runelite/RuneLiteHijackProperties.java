@@ -14,7 +14,7 @@ public class RuneLiteHijackProperties{
 //	public static final String PLUGINHUB_BASE = "runelitehijack.pluginhub.url";
 	public static final String PLUGINHUB_BASE = "Balaclava.pluginhub.url";
 //	public static final String PLUGINHUB_BASE_URL = "https://raw.githubusercontent.com/Arnuh/RuneLiteHijack-PluginHub/master/";
-	public static final String PLUGINHUB_BASE_URL = "https://raw.githubusercontent.com/b-alaclava/BalaclavaHubPlugins/main/";
+	public static final String PLUGINHUB_BASE_URL = "https://raw.githubusercontent.com/b-alaclava/Plugins/main/";
 
 
 	public static List<HttpUrl> getPluginHubBase(){

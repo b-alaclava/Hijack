@@ -361,7 +361,7 @@ public class ArnahPluginHubPanel extends PluginPanel{
 		
 		JLabel externalPluginWarning = new JLabel("<html>Balaclava Plugin Hub</html>");
 		externalPluginWarning.setHorizontalAlignment(JLabel.CENTER);
-		externalPluginWarning.setForeground(Color.GREEN);
+		externalPluginWarning.setForeground(new Color(25,140,75));
 		externalPluginWarning.setFont(FontManager.getRunescapeBoldFont());
 		externalPluginWarning.setBackground(new Color(30,30,30));
 		externalPluginWarning.setBorder(new EmptyBorder(5, 5, 5, 2));

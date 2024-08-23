@@ -102,7 +102,7 @@ public class ArnahPluginListPanel{
 					externalPluginButton.setLayout(new BorderLayout(0, PluginPanel.BORDER_OFFSET));
 					externalPluginButton.addActionListener(l->getMuxer().pushState(pluginHubPanelProvider.get()));
 					externalPluginButton.setBackground(new Color(30,30,30));
-					externalPluginButton.setForeground(Color.GREEN);
+					externalPluginButton.setForeground(new Color(25,140,75));
 					southPanel.add(externalPluginButton, "South");
 					pluginListPanel.add(southPanel, "South");
 					rebuildPluginList();

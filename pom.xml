@@ -5,7 +5,7 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>ca.arnah</groupId>
-	<artifactId>RuneLiteHijack</artifactId>
+	<artifactId>Balaclava</artifactId>
 	<version>1.0-SNAPSHOT</version>
 
 	<properties>
